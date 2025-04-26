@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576522556349",
+    "project_id": "local-skillshare-app",
+    "storage_bucket": "local-skillshare-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576522556349:android:a19733065d13b0f0d5b8d4",
+        "android_client_info": {
+          "package_name": "fm.mrc.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulzxYJ9TQwOBrL_1jyZAo5nIdlBwCLKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
